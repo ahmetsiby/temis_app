@@ -1,0 +1,8 @@
+# variables sensibles
+.env
+# dépendances
+node_modules/
+# base de données / dumps
+*.sql
+*.dump
+scripts/
